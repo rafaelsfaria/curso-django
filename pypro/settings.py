@@ -25,7 +25,7 @@ SECRET_KEY = 'hdm0jsv##h-r054tvwjacr=+jw4i9976@6nk_z5)4+opbz4rps'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
