@@ -4,3 +4,4 @@
 [![Build Status](https://travis-ci.org/rafaelsfaria/curso-django.svg?branch=main)](https://travis-ci.org/rafaelsfaria/curso-django)
 
 exemplo django
+disponível em https://cursodjango.herokuapp.com
